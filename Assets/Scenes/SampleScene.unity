@@ -225,7 +225,7 @@ GameObject:
   - component: {fileID: 1875219373}
   - component: {fileID: 1875219372}
   m_Layer: 0
-  m_Name: Hello World
+  m_Name: Surkul
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
